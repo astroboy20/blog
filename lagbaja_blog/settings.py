@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     # django apps
     'blog.apps.BlogConfig',
     'authentication.apps.AuthenticationConfig',
+    'mvp.apps.MvpConfig',
 
     # third party apps
     'rest_framework',

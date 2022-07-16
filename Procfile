@@ -1,0 +1,1 @@
+web: gunicorn lagbaja_blog.wsgi --log-file -
